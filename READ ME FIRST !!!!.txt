@@ -5,7 +5,7 @@ APPLICATION FOR REPATRIATION / DEPORTATION
 this system run on server so if your system occer any error please chack that your server is running (WAMP Server )
 
 
-UN - ridmika
+UN - admins
 PW - admin1234
     *can change via System -(Add user)
 
